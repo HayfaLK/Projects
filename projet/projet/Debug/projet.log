@@ -1,0 +1,11 @@
+﻿Build started 08/01/2015 04:22:18.
+     1>Project "C:\Users\amal\Documents\Visual Studio 2013\Projects\projet\projet\projet.vcxproj" on node 2 (ClCompile target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Gestion_de_vol.cpp
+         Gestion_de_vol.cpp
+     1>c:\users\amal\documents\visual studio 2013\projects\projet\projet\gestion_de_vol.cpp(14): error C4700: uninitialized local variable 't' used
+     1>Done Building Project "C:\Users\amal\Documents\Visual Studio 2013\Projects\projet\projet\projet.vcxproj" (ClCompile target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.46
